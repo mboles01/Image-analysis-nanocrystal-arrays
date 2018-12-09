@@ -1,7 +1,7 @@
 # Image_analysis
 For a group of objects contained within an image, this MATLAB script evaluates various geometric properties including separation between objects, number of nearest neighbors, etc. This program was used to uncover many-body interactions between colloidal nanocrystals in transmission electron microscopy (TEM) images of close-packed nanocrystal arrays. 
 
-See also J. Am. Chem. Soc. 2014, 136 (16), 5868-5871
+See also J. Am. Chem. Soc. 2015, 136 (16), 5868-5871
 
 This folder contains:
 1. Main program ("Image_analysis.m")
